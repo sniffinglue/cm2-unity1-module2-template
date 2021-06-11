@@ -645,7 +645,8 @@ PrefabInstance:
         type: 3}
       propertyPath: spawningPrefab
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 6870370513077494793, guid: 10dfd921989db4430b46dcfef7cbbbf1,
+        type: 3}
     - target: {fileID: 6775058520636564855, guid: 556517224ee0c4c56a609759d6164740,
         type: 3}
       propertyPath: inBetweenWaitTime
